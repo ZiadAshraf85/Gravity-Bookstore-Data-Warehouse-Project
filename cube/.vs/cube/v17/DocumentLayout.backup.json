@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Customer Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|solutionrelative:cube\\Customer Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|solutionrelative:cube\\Book Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book sales cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|solutionrelative:cube\\Book sales cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book sales view.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|solutionrelative:cube\\Book sales view.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Address Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|solutionrelative:cube\\Address Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|solutionrelative:cube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Shipping Method Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FF72677F-63C3-0976-CA22-DCCD8B56C164}|cube\\cube.dwproj|solutionrelative:cube\\Shipping Method Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer Dim.dim [Design]",
+              "DocumentMoniker": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Customer Dim.dim",
+              "RelativeDocumentMoniker": "cube\\Customer Dim.dim",
+              "ToolTip": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Customer Dim.dim [Design]",
+              "RelativeToolTip": "cube\\Customer Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T22:14:27.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address Dim.dim [Design]",
+              "DocumentMoniker": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Address Dim.dim",
+              "RelativeDocumentMoniker": "cube\\Address Dim.dim",
+              "ToolTip": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Address Dim.dim [Design]",
+              "RelativeToolTip": "cube\\Address Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T22:14:26.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book Dim.dim [Design]",
+              "DocumentMoniker": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book Dim.dim",
+              "RelativeDocumentMoniker": "cube\\Book Dim.dim",
+              "ToolTip": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book Dim.dim [Design]",
+              "RelativeToolTip": "cube\\Book Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T22:14:25.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Dim Date.dim",
+              "RelativeDocumentMoniker": "cube\\Dim Date.dim",
+              "ToolTip": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Dim Date.dim [Design]",
+              "RelativeToolTip": "cube\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T22:14:22.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book sales cube.cube [Design]",
+              "DocumentMoniker": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book sales cube.cube",
+              "RelativeDocumentMoniker": "cube\\Book sales cube.cube",
+              "ToolTip": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book sales cube.cube [Design]",
+              "RelativeToolTip": "cube\\Book sales cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T22:06:16.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book sales view.dsv [Design]",
+              "DocumentMoniker": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book sales view.dsv",
+              "RelativeDocumentMoniker": "cube\\Book sales view.dsv",
+              "ToolTip": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Book sales view.dsv [Design]",
+              "RelativeToolTip": "cube\\Book sales view.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T20:45:01.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shipping Method Dim.dim [Design]",
+              "DocumentMoniker": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Shipping Method Dim.dim",
+              "RelativeDocumentMoniker": "cube\\Shipping Method Dim.dim",
+              "ToolTip": "D:\\data camp\\data engineering\\project\\DWH_project\\cube\\cube\\Shipping Method Dim.dim [Design]",
+              "RelativeToolTip": "cube\\Shipping Method Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T22:14:29.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
