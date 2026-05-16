@@ -71,7 +71,7 @@ The data warehouse was designed using a dimensional model that supports both sal
 
 ### Data Warehouse Schema
 
-![Data Warehouse Modeling](schema.png)
+![Data Warehouse Modeling](Modeling/schema.png)
 
 ### Main Design Concepts
 
