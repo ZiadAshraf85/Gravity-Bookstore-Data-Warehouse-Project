@@ -230,52 +230,52 @@ SSIS/screenshots/
 <summary><strong>View SSIS Package Screenshots</strong></summary>
 
 ### Bridge Book Author - Control Flow
-![Bridge Book Author Control Flow](SSIS/screenshots/bridge_book_author_control_flow.png)
+![Bridge Book Author Control Flow](SSIS/Data_control_screen/bridge_controlflow.png)
 
 ### Bridge Book Author - Data Flow
-![Bridge Book Author Data Flow](SSIS/screenshots/bridge_book_author_data_flow.png)
+![Bridge Book Author Data Flow](SSIS/Data_flow%20screen/bridge.png)
 
 ### Dim Address - Control Flow
-![Dim Address Control Flow](SSIS/screenshots/dim_address_control_flow.png)
+![Dim Address Control Flow](SSIS/Data_control_screen/addr_Dim_control_flow.png)
 
 ### Dim Address - Data Flow
-![Dim Address Data Flow](SSIS/screenshots/dim_address_data_flow.png)
+![Dim Address Data Flow](SSIS/Data_flow%20screen/addr_Dim.png)
 
 ### Dim Author - Control Flow
-![Dim Author Control Flow](SSIS/screenshots/dim_author_control_flow.png)
+![Dim Author Control Flow](SSIS/Data_control_screen/Author_control_flow.png)
 
 ### Dim Author - Data Flow
-![Dim Author Data Flow](SSIS/screenshots/dim_author_data_flow.png)
+![Dim Author Data Flow](SSIS/Data_flow%20screen/Author.png)
 
 ### Dim Book - Control Flow
-![Dim Book Control Flow](SSIS/screenshots/dim_book_control_flow.png)
+![Dim Book Control Flow](SSIS/Data_control_screen/Book_control_flow.png)
 
 ### Dim Book - Data Flow
-![Dim Book Data Flow](SSIS/screenshots/dim_book_data_flow.png)
+![Dim Book Data Flow](SSIS/Data_flow%20screen/Book.png)
 
 ### Dim Customer - Control Flow
-![Dim Customer Control Flow](SSIS/screenshots/dim_customer_control_flow.png)
+![Dim Customer Control Flow](SSIS/Data_control_screen/customer_control_flow.png)
 
 ### Dim Customer - Data Flow
-![Dim Customer Data Flow](SSIS/screenshots/dim_customer_data_flow.png)
+![Dim Customer Data Flow](SSIS/Data_flow%20screen/customer.png)
 
 ### Dim Order Status - Control Flow
-![Dim Order Status Control Flow](SSIS/screenshots/dim_order_status_control_flow.png)
+![Dim Order Status Control Flow](SSIS/Data_control_screen/order_status_dim_ControlFlow.png)
 
 ### Dim Order Status - Data Flow
-![Dim Order Status Data Flow](SSIS/screenshots/dim_order_status_data_flow.png)
+![Dim Order Status Data Flow](SSIS/Data_flow%20screen/order_status_dim.png)
 
 ### Dim Shipping Method - Control Flow
-![Dim Shipping Method Control Flow](SSIS/screenshots/dim_shiping_method_control_flow.png)
+![Dim Shipping Method Control Flow](SSIS/Data_control_screen/shipping_controlflow.png)
 
 ### Dim Shipping Method - Data Flow
-![Dim Shipping Method Data Flow](SSIS/screenshots/dim_shiping_method_data_flow.png)
+![Dim Shipping Method Data Flow](SSIS/Data_flow%20screen/shipping.png)
 
 ### Fact Sales
-![Fact Sales](SSIS/screenshots/fact_sales.png)
+![Fact Sales](SSIS/Data_flow%20screen/Fact_Sales.png)
 
 ### Fact Order Status History
-![Fact Order Status History](SSIS/screenshots/fact_order_status_history.png)
+![Fact Order Status History](SSIS/Data_flow%20screen/fact_status.png)
 
 </details>
 
