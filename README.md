@@ -127,12 +127,12 @@ Main columns include:
 | Dimension | Description |
 |---|---|
 | `Dim_Date` | Calendar information such as day, month, quarter, year, and weekend flag |
-| `Dim_Book` | Book details, ISBN, title, language, publisher, and publication date |
-| `Dim_Author` | Author information |
-| `Dim_Customer` | Customer details with SCD Type 2 tracking |
-| `Dim_Address` | Customer address and country information with SCD Type 2 tracking |
-| `Dim_Shipping_Method` | Shipping method and cost |
-| `Dim_Order_Status` | Order status values such as delivered, cancelled, pending, and returned |
+| `Book_Dim` | Book details, ISBN, title, language, publisher, and publication date |
+| `Author_Dim` | Author information |
+| `Customer_Dim` | Customer details with SCD Type 2 tracking |
+| `Address_Dim` | Customer address and country information with SCD Type 2 tracking |
+| `Shipping_Method_Dim` | Shipping method and cost |
+| `Order_Status_Dim` | Order status values such as delivered, cancelled, pending, and returned |
 | `Bridge_Book_Author` | Bridge table between books and authors |
 
 ---
@@ -357,7 +357,8 @@ SSAS/Screenshots/
 Gravity-Bookstore-Data_Warehouse_Project/
 │
 ├── Modeling/
-│   └── modeling_DWH.jpg
+│   └── Schema.jpg
+    └── Galaxy_schema.drawio
 │
 ├── SQL/
 │   ├── Query_create_DWH.sql
@@ -368,8 +369,9 @@ Gravity-Bookstore-Data_Warehouse_Project/
 │   └── Screenshots/
 │
 ├── SSIS/
-│   ├── SSIS packages
-│   └── screenshots/
+│   ├── Book_DWH
+│   └── Data_control_screen
+    └── Data_control_screen/
 │
 ├── source_data/
 │   └── Gravity Bookstore source data
